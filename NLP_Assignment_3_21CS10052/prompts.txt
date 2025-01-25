@@ -1,0 +1,119 @@
+Here are some example sentences to help classify text as 'normal,' 'hatespeech,' or 'offensive'. Use these references, then classify the next sentence.
+
+Example 1: "werner herzog voice the goose is our animalistic self taking retribution on our consciousness for the extreme violence it is complicit in committing to the natural world" – Label: normal
+Example 2: "the alt right be all blood and soil until you disagree even slightly then it all shut up nigger faggot kike boomer well guess just soil then i feel your welfare asses can scrape together enough to actually buy some or will your government give it to you" – Label: hatespeech
+Example 3: "black on dog violence on cat on turtle on fish on old on young on gay on tranny on spic on asian on white on black on etc" – Label: offensive
+Example 4: "<user> malcolm x was assasinated by rival black muslims not white nationalist or slavery supporter you see there and rosa parks is a different category not in the same class as mlk" – Label: normal
+Example 5: "you nigger faggot a war is coming you and your subhuman brethren will not survive it" – Label: hatespeech
+Example 6: "our very own kuch bhi retard prakash raj 🖕 leftists_are_terrorists islamicterrorism" – Label: offensive
+
+Classify this sentence: '{text}'
+
+small: 0.2271, 0.0538
+base: 0.2521, 0.1419
+
+text: "werner herzog voice the goose is our animalistic self taking retribution on our consciousness for the extreme violence it is complicit in committing to the natural world" – Label: normal |
+text: "the alt right be all blood and soil until you disagree even slightly then it all shut up nigger faggot kike boomer well guess just soil then i feel your welfare asses can scrape together enough to actually buy some or will your government give it to you" – Label: hatespeech |
+text: "black on dog violence on cat on turtle on fish on old on young on gay on tranny on spic on asian on white on black on etc" – Label: offensive |
+text: "<user> malcolm x was assasinated by rival black muslims not white nationalist or slavery supporter you see there and rosa parks is a different category not in the same class as mlk" – Label: normal |
+text: "you nigger faggot a war is coming you and your subhuman brethren will not survive it" – Label: hatespeech |
+text: "our very own kuch bhi retard prakash raj 🖕 leftists_are_terrorists islamicterrorism" – Label: offensive |
+
+ Using these references, Classify this sentence:'{text}'\n\n among 'normal,' 'hatespeech,' and 'offensive' labels.
+
+small: 0.1097, 0.0129
+base: 0.2505, 0.1524
+
+random - 40
+
+Examples for Hate speech classification task:
+text: "werner herzog voice the goose is our animalistic self taking retribution on our consciousness for the extreme violence it is complicit in committing to the natural world" – Label: normal |
+text: "the alt right be all blood and soil until you disagree even slightly then it all shut up nigger faggot kike boomer well guess just soil then i feel your welfare asses can scrape together enough to actually buy some or will your government give it to you" – Label: hatespeech |
+text: "black on dog violence on cat on turtle on fish on old on young on gay on tranny on spic on asian on white on black on etc" – Label: offensive |
+text: "<user> malcolm x was assasinated by rival black muslims not white nationalist or slavery supporter you see there and rosa parks is a different category not in the same class as mlk" – Label: normal |
+text: "you nigger faggot a war is coming you and your subhuman brethren will not survive it" – Label: hatespeech |
+text: "our very own kuch bhi retard prakash raj 🖕 leftists_are_terrorists islamicterrorism" – Label: offensive |
+
+Using these references, Please determine if the text below is 'normal,' 'hatespeech' or 'offensive': "{text}"
+
+small: 0.3607, 0.0618
+base: 0.3363,0.1199
+
+random state - 42
+
+Examples for Hate speech classification task:
+text: "calling me a kike is not an insult" – Label: 'normal'
+text: "<user> <user> <user> no we will take care of our beloved indian muslims but we do not want any illegal muslim immigrants from pakistan and bangladesh india is only for indian muslims all hindus sikhs jains and christians" – Label: 'offensive'
+text: "refugees welcome but no irish comedies have to be poorly written now so that mexicans and asians will get the jokes yeah you know what life is too short to listen to this radiohead album mpcstatusupdates" – Label: 'offensive'
+text: "that nigga kawhi is nice bruh" – Label: 'normal'
+text: "<user> jesus is gay bt he the good kind of gay not like them fucking gay ponies" – Label: 'hatespeech'
+text: "the ex lying muzrat traitor in chief needs to swing for his crimes" – Label: 'hatespeech'
+
+Using these references, Please determine if the text below is 'normal,' 'hatespeech' or 'offensive': "{text}"
+
+small: 0.3807, 0.0618
+base: 0.3263,0.1199
+
+random state - 42
+
+Examples for Hate speech classification task:
+text: "calling me a kike is not an insult" – Label: 'normal' |
+text: "<user> <user> <user> no we will take care of our beloved indian muslims but we do not want any illegal muslim immigrants from pakistan and bangladesh india is only for indian muslims all hindus sikhs jains and christians" – Label: 'offensive' |
+text: "refugees welcome but no irish comedies have to be poorly written now so that mexicans and asians will get the jokes yeah you know what life is too short to listen to this radiohead album mpcstatusupdates" – Label: 'offensive' |
+text: "that nigga kawhi is nice bruh" – Label: 'normal' |
+text: "<user> jesus is gay bt he the good kind of gay not like them fucking gay ponies" – Label: 'hatespeech' |
+text: "the ex lying muzrat traitor in chief needs to swing for his crimes" – Label: 'hatespeech' |
+
+Using these references, Please determine if the text below is 'normal,' 'hatespeech' or 'offensive': "{text}" 
+
+small: 0.3285,0.0666
+base: 0.3581,0.1241
+
+Examples for Hate speech classification task:
+text: "<user> jesus is gay bt he the good kind of gay not like them fucking gay ponies" – Label: 'hatespeech' |
+text: "he was like ew really i fucking hate that faggot 🤣 🤣 🤣 🤣 i lost it you all it was funny as shit" – Label: 'offensive' |
+text: "<user> <user> <user> no we will take care of our beloved indian muslims but we do not want any illegal muslim immigrants from pakistan and bangladesh india is only for indian muslims all hindus sikhs jains and christians" – Label: 'offensive' |
+text: "the ex lying muzrat traitor in chief needs to swing for his crimes" – Label: 'hatespeech' |
+text: "refugees welcome but no irish comedies have to be poorly written now so that mexicans and asians will get the jokes yeah you know what life is too short to listen to this radiohead album mpcstatusupdates" – Label: 'offensive' |
+text: "that nigga kawhi is nice bruh" – Label: 'normal' |
+text: "no <number> million white children raped by paki muslims <number> million pakis in the uk for their crime the whole community must be expelled" – Label: 'hatespeech' |
+text: "eid mubarak to all my muslim brothers and sisters lt <number>" – Label: 'normal' |
+text: "calling me a kike is not an insult" – Label: 'normal' |
+
+Using these references, Please determine if the text below is 'normal,' 'hatespeech' or 'offensive': "{text}" 
+
+base: 0.3623,0.1233
+
+Using these references, Please determine if the text below is 'normal,' 'hatespeech' or 'offensive': "{text}" 
+
+Examples for Hate speech classification task:
+text: "<user> jesus is gay bt he the good kind of gay not like them fucking gay ponies" – Label: 'hatespeech' |
+text: "he was like ew really i fucking hate that faggot 🤣 🤣 🤣 🤣 i lost it you all it was funny as shit" – Label: 'offensive' |
+text: "<user> <user> <user> no we will take care of our beloved indian muslims but we do not want any illegal muslim immigrants from pakistan and bangladesh india is only for indian muslims all hindus sikhs jains and christians" – Label: 'offensive' |
+text: "the ex lying muzrat traitor in chief needs to swing for his crimes" – Label: 'hatespeech' |
+text: "refugees welcome but no irish comedies have to be poorly written now so that mexicans and asians will get the jokes yeah you know what life is too short to listen to this radiohead album mpcstatusupdates" – Label: 'offensive' |
+text: "that nigga kawhi is nice bruh" – Label: 'normal' |
+text: "no <number> million white children raped by paki muslims <number> million pakis in the uk for their crime the whole community must be expelled" – Label: 'hatespeech' |
+text: "eid mubarak to all my muslim brothers and sisters lt <number>" – Label: 'normal' |
+text: "calling me a kike is not an insult" – Label: 'normal' |
+
+small: 0.4064,0.1966
+base: 0.4064,0.1941
+
+Please determine if the text below is 'normal,' 'hatespeech' or 'offensive': "{text}" 
+
+Using these references:
+text: "<user> jesus is gay bt he the good kind of gay not like them fucking gay ponies" – Label: 'hatespeech' |
+text: "he was like ew really i fucking hate that faggot 🤣 🤣 🤣 🤣 i lost it you all it was funny as shit" – Label: 'offensive' |
+text: "<user> <user> <user> no we will take care of our beloved indian muslims but we do not want any illegal muslim immigrants from pakistan and bangladesh india is only for indian muslims all hindus sikhs jains and christians" – Label: 'offensive' |
+text: "the ex lying muzrat traitor in chief needs to swing for his crimes" – Label: 'hatespeech' |
+text: "refugees welcome but no irish comedies have to be poorly written now so that mexicans and asians will get the jokes yeah you know what life is too short to listen to this radiohead album mpcstatusupdates" – Label: 'offensive' |
+text: "that nigga kawhi is nice bruh" – Label: 'normal' |
+text: "no <number> million white children raped by paki muslims <number> million pakis in the uk for their crime the whole community must be expelled" – Label: 'hatespeech' |
+text: "eid mubarak to all my muslim brothers and sisters lt <number>" – Label: 'normal' |
+text: "calling me a kike is not an insult" – Label: 'normal' |
+
+small: 0.4064,0.1966
+base: 0.4039,0.1444
+
+
